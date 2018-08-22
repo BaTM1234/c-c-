@@ -1,0 +1,23 @@
+Bài 2: Quản lý memory
+
+- Làm bài tập cuối chương 8 về pointer trong sách.
+- Hoàn thiện bài matrix với con trỏ kép.
+- Cài đặt stack, queue bằng con trỏ.
+- Tìm hiểu các hàm liên quan đến memory trong link: http://www.cplusplus.com/.
+- Code về class.
+
+
+
+C++ Training: Test 1
+C++ Training: OOP2
+C++ Training: OOP
+Duali's Technology: NFC, RFID
+Lab Session: Bit-Band
+[Demo project] OLED Driver
+Study Memory System Architecture
+[Demo Project] BSP
+Study ARM Cortex Mx Architecture
+Control GPIO with Open STM32
+Study STM32F4 peripheral
+
+	
